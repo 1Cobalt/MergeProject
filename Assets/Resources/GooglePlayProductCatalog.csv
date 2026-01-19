@@ -1,0 +1,4 @@
+Product ID,Published State,Purchase Type,Auto Translate,Locale; Title; Description,Auto Fill Prices,Price,Pricing Template ID
+1shake,published,managed_by_android,false,en_US;1 shake;you can shake the jar to try to merge something,true,1000000,
+5shakes,published,managed_by_android,false,en_US;5 shakes;you can shake the jar to try to merge something,true,1000000,
+1revive,published,managed_by_android,false,en_US;1 revive;you can revive yourself 1 time after losing,true,1000000,
